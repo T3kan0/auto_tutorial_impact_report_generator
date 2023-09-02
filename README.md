@@ -22,3 +22,7 @@ The data used here was generated randomly with the ***numpy python*** library. T
 <p align="center">
   <img align="center" width="300" height="500" src="https://github.com/T3kan0/auto_tutorial_impact_report_generator/blob/main/report_pg1.png">
 </p>
+
+<p align="center">
+  <img align="center" width="300" height="500" src="https://github.com/T3kan0/auto_tutorial_impact_report_generator/blob/main/report_pg3.png">
+</p>
