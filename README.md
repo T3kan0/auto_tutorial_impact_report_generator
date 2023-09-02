@@ -29,7 +29,7 @@ As mentioned, the first step is to load, combine the tutorial attendance and per
 
 > $ source("dataCompile.R")
 
-Once the data is prepared and freuency is determined, the user must open the code ***pyttea.ipynb*** on **jupyter-notebook**. Run the entire code on "Run All", enter the FACULTY, TERM, CAMPUS and wait, a PDF report will be the output. 
+Once the data is prepared and freuency is determined, the user must open the code ***pyttea.ipynb*** on **jupyter-notebook**. Run the entire code on "Run All", enter the FACULTY, TERM, CAMPUS and wait, a PDF report will be the output. In the example below, the report is for the faculty of LAW, for the first terms, i.e., SEM1 on the MAIN campus.
 
 <p align="center">
   <img align="center" width="300" height="500" src="https://github.com/T3kan0/auto_tutorial_impact_report_generator/blob/main/report_pg1.png">
