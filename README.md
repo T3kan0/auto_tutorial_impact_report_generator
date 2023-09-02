@@ -23,7 +23,7 @@ You will need to install the following software on your system in order to run/e
   * dplyr
 
 ### About the Data 💾 
-The data used here was generated randomly with the ***numpy python*** library. The data is meant to only help us see how the different Polynomial orders can fit the data. For us to see things to avoid when fitting the data, such as overfitting when the order of the polynomial function gets high. In this case, the data was best fit with a polynomial function of the first order, i.e., Linear. 
+The data used here was collected between 2019 and the first term of 2022 by the tutorial project of students on the University of Free State. The data was collected and stored weekly, where I have access to perform statistical analysis and reporting.
 
 <p align="center">
   <img align="center" width="300" height="500" src="https://github.com/T3kan0/auto_tutorial_impact_report_generator/blob/main/report_pg1.png">
