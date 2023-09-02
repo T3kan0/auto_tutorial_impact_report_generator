@@ -17,8 +17,8 @@ You will need to install the following software on your system in order to run/e
   * pyreadr
   * datetime
   * fpdf
-  * Matplotlib
-  * Sklearn
+  * matplotlib
+  * seaborn
   * glob
   * dplyr
 
