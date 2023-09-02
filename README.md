@@ -20,5 +20,5 @@ You will need to install the following software on your system in order to run/e
 The data used here was generated randomly with the ***numpy python*** library. The data is meant to only help us see how the different Polynomial orders can fit the data. For us to see things to avoid when fitting the data, such as overfitting when the order of the polynomial function gets high. In this case, the data was best fit with a polynomial function of the first order, i.e., Linear. 
 
 <p align="center">
-  <img align="center" width="700" height="600" src="https://github.com/T3kan0/auto_tutorial_impact_report_generator/blob/main/report_pg1.png">
+  <img align="center" width="400" height="300" src="https://github.com/T3kan0/auto_tutorial_impact_report_generator/blob/main/report_pg1.png">
 </p>
