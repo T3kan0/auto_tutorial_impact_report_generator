@@ -2,7 +2,7 @@
 Tekano Mbonani
 
 ## System Docs 📃
-An automated, user-interactive tutorial attendance impact report generator
+An automated, user-interactive tutorial attendance impact PDF report generator. Using a combination of ***R*** and ***python*** languages, the code requires student tutorial attedance and performance data files to compile a tutorial impact report per faculty, term (semester) and campus. 
 
 ## Software Requirements 🔌
 You will need to install the following software on your system in order to run/edit the Python script.
