@@ -27,7 +27,7 @@ The data used here was collected between 2019 and the first term of 2022, by the
 ### Running the code
 As mentioned, the first step is to load and combine the tutorial attendance and performance data files, this is done by the ***R*** code:
 
-> $ source("dataComb.R")
+> $ source("dataCompile.R")
 
 <p align="center">
   <img align="center" width="300" height="500" src="https://github.com/T3kan0/auto_tutorial_impact_report_generator/blob/main/report_pg1.png">
