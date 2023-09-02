@@ -25,9 +25,11 @@ You will need to install the following software on your system in order to run/e
 ### About the Data 💾 
 The data used here was collected between 2019 and the first term of 2022, by the tutorial project of students on the University of Free State. The data was collected and stored weekly, where I have access to perform statistical analysis and reporting.
 ### Running the code
-As mentioned, the first step is to load and combine the tutorial attendance and performance data files, this is done by the ***R*** code:
+As mentioned, the first step is to load, combine the tutorial attendance and performance data files, as well as calculating student tutorial frequency, this is done by the ***R*** code:
 
 > $ source("dataCompile.R")
+
+Once the data is prepared and freuency is determined, the user must open the code ***pytea.inpy*** on ***jupyter-notebook**.
 
 <p align="center">
   <img align="center" width="300" height="500" src="https://github.com/T3kan0/auto_tutorial_impact_report_generator/blob/main/report_pg1.png">
